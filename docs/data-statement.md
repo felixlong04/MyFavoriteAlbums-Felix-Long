@@ -21,4 +21,4 @@ Because the Shiny app relies on specific column names and formats, the dataset s
 
 Here are examples of the raw code utilized:
 ![Alt text](devref1.png)
-<img>
+![Alt text](table.png)
