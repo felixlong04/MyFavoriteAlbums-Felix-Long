@@ -4,4 +4,4 @@
 
 > A Guide to MyfavoriteAlbums for users and developer's 
 
-[Get Started](#/README)
+[Get Started](#README)
